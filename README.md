@@ -2,7 +2,9 @@
 
 An album prototype app that allows users to view albums and make a purchase on Amazon.
 
-![alt text](./Albums.png "Album App")
+<center>
+    <img src="./Albums.png" height="600px" /> 
+</center>
 
 ## Reusable Components
 
