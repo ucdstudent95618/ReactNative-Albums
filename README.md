@@ -2,9 +2,8 @@
 
 An album prototype app that allows users to view albums and make a purchase on Amazon.
 
-<center>
-    <img src="./Albums.png" height="600px" /> 
-</center>
+
+<img src="./Albums.png" height="600px" /> 
 
 ## Reusable Components
 
